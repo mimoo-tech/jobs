@@ -4,7 +4,7 @@
 :handshake: Venha fazer parte do nosso time: [**estamos contratando!**](https://github.com/mimoo-tech/jobs/issues)
 
 ## Desafios
-- [AWS Software Engineer](https://github.com/mimoo-tech/jobs/desafios/backend)
+- [AWS Software Engineer](./desafios/backend/README.md)
 
 ## Sobre a Mimoo
 
