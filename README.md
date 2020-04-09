@@ -5,6 +5,7 @@
 
 ## Desafios
 - [AWS Software Engineer](./desafios/backend/README.md)
+- [Front-end Developer](./desafios/frontend/README.md)
 
 ## Sobre a Mimoo
 
