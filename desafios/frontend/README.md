@@ -37,7 +37,7 @@ Os seguintes itens não são obrigatórios, mas darão mais valor ao seu trabalh
 
 ## 2: O usuário deve poder informar o seu nome
 
-[Tela](https://xd.adobe.com/view/30dd76ba-cc00-4f06-47b4-48bcac298c67-46ec/screen/8b367a8a-8726-476a-84da-9e7185cf4dc3/Nome)
+[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/screen/8b367a8a-8726-476a-84da-9e7185cf4dc3/)
 
 ## 3: O usuário deve poder ver a lista de todos os produtos que disse que consome
 
