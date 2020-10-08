@@ -2,7 +2,7 @@
 
 Sua tarefa é construir um front-end para a aplicação Mimoo - Produtos de Casa. A aplicação é uma versão simplificada de um de nossos módulos do que chamamos de Jogo de Missões.
 
-A aplicação deve ser construída de acordo com o seguinte [protótipo](https://xd.adobe.com/view/30dd76ba-cc00-4f06-47b4-48bcac298c67-46ec/) e utilizando a seguinte stack: React (utilizando hooks), Redux-Saga e styled components.
+A aplicação deve ser construída de acordo com o seguinte [protótipo](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/) e utilizando a seguinte stack: React (utilizando hooks), Redux-Saga e styled components.
 
 ## O que será avaliado
 
@@ -33,7 +33,7 @@ Os seguintes itens não são obrigatórios, mas darão mais valor ao seu trabalh
 
 ## 1: O usuário deve poder acessar a "missão"
 
-[Tela](https://xd.adobe.com/view/30dd76ba-cc00-4f06-47b4-48bcac298c67-46ec/)
+[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/)
 
 ## 2: O usuário deve poder informar o seu nome
 
@@ -43,17 +43,17 @@ Os seguintes itens não são obrigatórios, mas darão mais valor ao seu trabalh
 
 P.S.: Considere 100 pontos fixos para cada produto identificado.
 
-[Tela](https://xd.adobe.com/view/30dd76ba-cc00-4f06-47b4-48bcac298c67-46ec/screen/92e8196d-0a44-4d19-b903-db63d1e30495/Home-Skin-Care)
+[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/screen/92e8196d-0a44-4d19-b903-db63d1e30495/)
 
 ## 4: O usuário deve poder adicionar novos produtos ao seu perfil
 
 P.S.: Aqui deverá ser aberta a câmera do usuário e utilizar alguma biblioteca para a leitura de código de barras.
 
-[Tela](https://xd.adobe.com/view/30dd76ba-cc00-4f06-47b4-48bcac298c67-46ec/screen/b2bd20df-b250-478f-8330-d80997434ec5/Scan)
+[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/screen/b2bd20df-b250-478f-8330-d80997434ec5/)
 
 ## 5: O usuário deve poder visualizar o produto lido
 
-[Tela](https://xd.adobe.com/view/30dd76ba-cc00-4f06-47b4-48bcac298c67-46ec/screen/5c578d8e-d056-4413-970f-5d109bd0ab08/COnfirma-o)
+[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/screen/5c578d8e-d056-4413-970f-5d109bd0ab08/)
 
 ## Critérios de Aceitação
 
