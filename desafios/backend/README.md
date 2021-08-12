@@ -3,7 +3,7 @@
 
 Sua tarefa é construir uma API e banco de dados para a aplicação VUTTR (Very Useful Tools to Remember). A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags.
 
-A aplicação deve ser construída utilizando a seguinte stack: AWS Cognito, AWS Api Gateway, AWS Lambda - escrito em JavaScript e utilizando o [Serverless Framework](https://serverless.com/framework/docs/) com a lib [Middy](https://github.com/middyjs) - e AWS DynamoDB.
+A aplicação deve ser construída utilizando a seguinte stack: AWS Cognito, AWS Api Gateway, AWS Lambda - escrito em TypeScript (ou JavaScript) e utilizando o [Serverless Framework](https://serverless.com/framework/docs/) com a lib [Middy](https://github.com/middyjs) - e AWS DynamoDB.
 
 A API deverá ser documentada utilizando o formato [Swagger](https://swagger.io/docs/specification/basic-structure/).
 
