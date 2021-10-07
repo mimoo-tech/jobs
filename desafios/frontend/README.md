@@ -2,7 +2,7 @@
 
 Sua tarefa é construir um front-end para a aplicação Mimoo - Produtos de Casa. A aplicação é uma versão simplificada de um de nossos módulos do que chamamos de Jogo de Missões.
 
-A aplicação deve ser construída de acordo com o seguinte [protótipo](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/) e utilizando a seguinte stack: React (utilizando hooks), Redux-Saga e styled components.
+A aplicação deve ser construída de acordo com o seguinte [protótipo](https://www.figma.com/file/787jgEy2oiBKW7hugiOBHU/Admin-Interno?node-id=1664%3A21890) e utilizando a seguinte stack: React (utilizando hooks), Redux-Saga e styled components.
 
 ## O que será avaliado
 
@@ -29,31 +29,31 @@ Os seguintes itens não são obrigatórios, mas darão mais valor ao seu trabalh
 - **Documentação dos components (~~docz~~)**;
 - **Testes de front-end;**.
 
-# User Stories e protótipo
+# Login e patrocinadores
 
-## 1: O usuário deve poder acessar a "missão"
+## 1: O usuário deve poder logar na aplicação
+### Validação dos inputs de email e senha (pelo menos 8 caracteres)
 
-[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/)
+P.S.: Se atentar aos estados dos inputs
 
-## 2: O usuário deve poder informar o seu nome
+[Tela](https://www.figma.com/proto/PU1G7ONL9aYPPyGemAbWtq/Desafio?node-id=2%3A249&scaling=min-zoom&page-id=2%3A31&starting-point-node-id=2%3A249)
 
-[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/screen/8b367a8a-8726-476a-84da-9e7185cf4dc3/)
+## 2: O usuário deve poder recuperar sua senha
+### Apenas implementação do fluxo
 
-## 3: O usuário deve poder ver a lista de todos os produtos que disse que consome
+[Tela](https://www.figma.com/proto/PU1G7ONL9aYPPyGemAbWtq/Desafio?node-id=5%3A103&scaling=min-zoom&page-id=2%3A31&starting-point-node-id=2%3A249)
 
-P.S.: Considere 100 pontos fixos para cada produto identificado.
+## 3: O usuário deve poder ver o dashboard
 
-[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/screen/92e8196d-0a44-4d19-b903-db63d1e30495/)
+[Tela](https://www.figma.com/proto/PU1G7ONL9aYPPyGemAbWtq/Desafio?node-id=5%3A286&scaling=min-zoom&page-id=2%3A31&starting-point-node-id=2%3A249)
 
-## 4: O usuário deve poder adicionar novos produtos ao seu perfil
+## 4: O usuário deve poder ver a listagem de patrocinadores
 
-P.S.: Aqui deverá ser aberta a câmera do usuário e utilizar alguma biblioteca para a leitura de código de barras.
+[Tela](https://www.figma.com/proto/PU1G7ONL9aYPPyGemAbWtq/Desafio?node-id=5%3A625&scaling=min-zoom&page-id=2%3A31&starting-point-node-id=2%3A249)
 
-[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/screen/b2bd20df-b250-478f-8330-d80997434ec5/)
+## 5: O usuário deve poder adicionar um patrocinador
 
-## 5: O usuário deve poder visualizar o produto lido
-
-[Tela](https://xd.adobe.com/view/3dace6bc-3b62-4d1b-a35a-ba1b7d79725b-68ff/screen/5c578d8e-d056-4413-970f-5d109bd0ab08/)
+[Tela](https://www.figma.com/proto/PU1G7ONL9aYPPyGemAbWtq/Desafio?node-id=12%3A446&scaling=min-zoom&page-id=2%3A31&starting-point-node-id=2%3A249)
 
 ## Critérios de Aceitação
 
