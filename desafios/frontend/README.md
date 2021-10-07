@@ -1,8 +1,8 @@
 # Desafio Front-end Developer - Mimoo
 
-Sua tarefa é construir um front-end para a aplicação Mimoo - Produtos de Casa. A aplicação é uma versão simplificada de um de nossos módulos do que chamamos de Jogo de Missões.
+Sua tarefa é construir um front-end para a aplicação do portal de controle interno. A aplicação é uma versão simplificada de um de nossos módulos de listagem dos nossos clientes.
 
-A aplicação deve ser construída de acordo com o seguinte [protótipo](https://www.figma.com/file/787jgEy2oiBKW7hugiOBHU/Admin-Interno?node-id=1664%3A21890) e utilizando a seguinte stack: React (utilizando hooks), Redux-Saga e styled components.
+A aplicação deve ser construída de acordo com o seguinte [protótipo](https://www.figma.com/file/787jgEy2oiBKW7hugiOBHU/Admin-Interno?node-id=1664%3A21890) e utilizando a seguinte stack: React (utilizando hooks), Redux-Toolkit e styled components (Bonus: Material-UI).
 
 ## O que será avaliado
 
@@ -32,9 +32,8 @@ Os seguintes itens não são obrigatórios, mas darão mais valor ao seu trabalh
 # Login e patrocinadores
 
 ## 1: O usuário deve poder logar na aplicação
-### Validação dos inputs de email e senha (pelo menos 8 caracteres)
 
-P.S.: Se atentar aos estados dos inputs
+P.S.: Se atentar aos estados dos inputs e sua validação (email e senha com pelo menos 8 caracteres).
 
 [Tela](https://www.figma.com/proto/PU1G7ONL9aYPPyGemAbWtq/Desafio?node-id=2%3A249&scaling=min-zoom&page-id=2%3A31&starting-point-node-id=2%3A249)
 
