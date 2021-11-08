@@ -62,7 +62,7 @@ P.S.: Se atentar aos estados dos inputs
 
 
 # API
-[SwaggerHub](https://app.swaggerhub.com/apis/mimoo-tech/frontend-challenge-api/1.0.0)
+[SwaggerHub](https://app.swaggerhub.com/apis/mimoo-tech/frontend-portal-challenge-api/1.0.0)
 
 
 Ao término do desafio, você deve [agendar uma ligação](https://calendly.com/lucaskauer/challenge) com Lucas Kauer (Tech Lead da Mimoo) para falar sobre o que você construiu. A ligação ocorrerá via Hangouts, e o link estará presente no convite do evento. **Desconsiderar esse item se você chegou ao teste por outro canal**.
