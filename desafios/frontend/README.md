@@ -10,7 +10,7 @@ Queremos avaliar sua capacidade de desenvolver e documentar um front-end para um
 
 - Código bem escrito e limpo;
 - Quais ferramentas foram usadas, como e por quê, além do seu conhecimento das mesmas;
-- Seu conhecimento em JavaScript, HTML e CSS;
+- Seu conhecimento em TypeScript, HTML e CSS;
 - Sua capacidade de se comprometer com o que foi fornecido (protótipo);
 - Sua capacidade de documentação da sua parte da aplicação.
 
